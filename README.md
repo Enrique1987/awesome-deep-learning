@@ -1,5 +1,7 @@
 ﻿# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Resources marked *unavailable* failed the 2026-10-22 link audit. Their original destinations are preserved in the [unavailable-resource record](archive/unavailable-resources.md).
+
 ## Table of Contents
 
 * **[Books](#books)**
@@ -18,7 +20,7 @@
 
 * **[Datasets](#datasets)**
 
-* **[Conferences](#Conferences)**
+* **[Conferences](#conferences)**
 
 * **[Frameworks](#frameworks)**  
 
@@ -59,7 +61,7 @@
 7.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)
 9.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2017)
 10.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)
-11.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
+11.  Neural Networks - usherbrooke *(unavailable)*
 12.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
 13.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
 14.  [Graduate Summer School: Deep Learning, Feature Learning](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
@@ -73,9 +75,9 @@
 22. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 23. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
-25. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
+25. [Practical Deep Learning For Coders](http://course.fast.ai/) by Fast.ai (current Part 2 course)
 26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
-27. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) by Andrew Ng (2019)
+27. [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) by Andrew Ng (2019)
 28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)
 29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)
 30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI (2019)
@@ -83,14 +85,14 @@
 32. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola and Mu Li (2019)
 33. [Machine Learning for Mere Mortals video course](https://www.manning.com/livevideo/machine-learning-for-mere-mortals) by Nick Chase
 34. [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) -Google AI
-35. [Deep Learning from the Foundations](https://course.fast.ai/part2) Jeremy Howard - Fast.ai
+35. [Practical Deep Learning for Coders, Part 2](https://course.fast.ai/Lessons/part2.html) Fast.ai (current Part 2 course)
 36. [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) a 3-6 month Udacity nanodegree, spanning multiple courses (2018)
 37. [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) by Beau Carnes (2018)
 38. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) by Hakan Cebeci
-39. [Deep Learning Online Course list at Classpert](https://classpert.com/deep-learning) List of Deep Learning online courses (some are free) from Classpert Online Course Search
+39. Deep Learning Online Course list at Classpert *(unavailable)* List of Deep Learning online courses (some are free) from Classpert Online Course Search
 40. [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning unviersity
 41. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - A great introductory course on Deep Learning by Udacity and Facebook AI
-42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) - Kaggle's  free course on Deep Learning
+42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning) - Kaggle's  free course on Deep Learning
 
 ### Videos and Lectures
 
@@ -107,7 +109,7 @@
 11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton at GoogleTechTalks
 12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels
 13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011)
-14.  [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
+14.  [Natural Language Processing](https://web.stanford.edu/class/cs224n/readings/) By Chris Manning in Stanford
 15.  [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) By Natalie Hammel and Lorraine Yurshansky
 16.  [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanford.
 17. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
@@ -129,7 +131,7 @@
 3.  [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
 4.  [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
 5.  [Neural Networks for Named Entity Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
-6. [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
+6. [Training tricks by YB](https://arxiv.org/abs/1206.5533)
 7. [Geoff Hinton's reading list (all papers)](http://www.cs.toronto.edu/~hinton/deeprefs.html)
 8. [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/preprint.pdf)
 9.  [Statistical Language Models based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
@@ -138,11 +140,11 @@
 12.  [Bi-directional RNN](http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf)
 13.  [LSTM](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)
 14.  [GRU - Gated Recurrent Unit](http://arxiv.org/pdf/1406.1078v3.pdf)
-15.  [GFRNN](http://arxiv.org/pdf/1502.02367v3.pdf) [.](http://jmlr.org/proceedings/papers/v37/chung15.pdf) [.](http://jmlr.org/proceedings/papers/v37/chung15-supp.pdf)
+15.  [GFRNN](http://arxiv.org/pdf/1502.02367v3.pdf) [.](https://proceedings.mlr.press/v37/chung15.pdf) [.](https://proceedings.mlr.press/v37/chung15-supp.pdf)
 16.  [LSTM: A Search Space Odyssey](http://arxiv.org/pdf/1503.04069v1.pdf)
 17.  [A Critical Review of Recurrent Neural Networks for Sequence Learning](http://arxiv.org/pdf/1506.00019v1.pdf)
 18.  [Visualizing and Understanding Recurrent Networks](http://arxiv.org/pdf/1506.02078v1.pdf)
-19.  [Wojciech Zaremba, Ilya Sutskever, An Empirical Exploration of Recurrent Network Architectures](http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf)
+19.  [Wojciech Zaremba, Ilya Sutskever, An Empirical Exploration of Recurrent Network Architectures](https://proceedings.mlr.press/v37/jozefowicz15.pdf)
 20.  [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
 21.  [Extensions of Recurrent Neural Network Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2011/mikolov_icassp2011_5528.pdf)
 22.  [Recurrent Neural Network based Language Modeling in Meeting Recognition](http://www.fit.vutbr.cz/~imikolov/rnnlm/ApplicationOfRNNinMeetingRecognition_IS2011.pdf)
@@ -177,7 +179,7 @@
 
 1.  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 2.  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
-3.  [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
+3.  Deep Learning for NLP (without Magic) *(unavailable)*
 4.  [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 5.  [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
 6.  [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
@@ -205,15 +207,15 @@
 27. [The Illustrated Self-Supervised Learning](https://amitness.com/2020/02/illustrated-self-supervised-learning/)
 28. [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 28. [Semi-Supervised Deep Learning with GANs for Melanoma Detection](https://www.manning.com/liveproject/semi-supervised-deep-learning-with-gans-for-melanoma-detection/)
-29. [Named Entity Recognition using Reformers](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/NER%20using%20Reformer.ipynb)
-30. [Deep N-Gram Models on Shakespeare’s works](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/Deep%20N-Gram.ipynb)
-31. [Wide Residual Networks](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/vision/illustrated-wideresnet.ipynb)
-32. [Fashion MNIST using Flax](https://github.com/SauravMaheshkar/Flax-Examples)
-33. [Fake News Classification (with streamlit deployment)](https://github.com/SauravMaheshkar/Fake-News-Classification)
-34. [Regression Analysis for Primary Biliary Cirrhosis](https://github.com/SauravMaheshkar/CoxPH-Model-for-Primary-Biliary-Cirrhosis)
-35. [Cross Matching Methods for Astronomical Catalogs](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs)
-36. [Named Entity Recognition using BiDirectional LSTMs](https://github.com/SauravMaheshkar/Named-Entity-Recognition-)
-37. [Image Recognition App using Tflite and Flutter](https://github.com/SauravMaheshkar/Flutter_Image-Recognition)
+29. Named Entity Recognition using Reformers *(unavailable)*
+30. Deep N-Gram Models on Shakespeare’s works *(unavailable)*
+31. Wide Residual Networks *(unavailable)*
+32. Fashion MNIST using Flax *(unavailable)*
+33. Fake News Classification (with streamlit deployment) *(unavailable)*
+34. Regression Analysis for Primary Biliary Cirrhosis *(unavailable)*
+35. Cross Matching Methods for Astronomical Catalogs *(unavailable)*
+36. Named Entity Recognition using BiDirectional LSTMs *(unavailable)*
+37. Image Recognition App using Tflite and Flutter *(unavailable)*
 
 ## Researchers
 
@@ -225,14 +227,14 @@
 6. [ Alexander Ilin ](http://users.ics.aalto.fi/alexilin/)
 7. [ Amos Storkey ](http://homepages.inf.ed.ac.uk/amos/)
 8. [ Andrej Karpathy ](https://karpathy.ai/)
-9. [ Andrew M. Saxe ](http://www.stanford.edu/~asaxe/)
-10. [ Andrew Ng ](http://www.cs.stanford.edu/people/ang/)
+9. [ Andrew M. Saxe ](https://www.saxelab.org/people/andrewsaxe/)
+10. [ Andrew Ng ](https://www.andrewng.org/)
 11. [ Andrew W. Senior ](http://research.google.com/pubs/author37792.html)
 12. [ Andriy Mnih ](http://www.gatsby.ucl.ac.uk/~amnih/)
 13. [ Ayse Naz Erkan ](http://www.cs.nyu.edu/~naz/)
 14. [ Benjamin Schrauwen ](http://reslab.elis.ugent.be/benjamin)
 15. [ Bernardete Ribeiro ](https://www.cisuc.uc.pt/people/show/2020)
-16. [ Bo David Chen ](http://vision.caltech.edu/~bchen3/Site/Bo_David_Chen.html)
+16. Bo David Chen *(unavailable)*
 17. [ Boureau Y-Lan ](http://cs.nyu.edu/~ylan/)
 18. [ Brian Kingsbury ](http://researcher.watson.ibm.com/researcher/view.php?person=us-bedk)
 19. [ Christopher Manning ](http://nlp.stanford.edu/~manning/)
@@ -241,14 +243,14 @@
 22. [ David Reichert ](http://serre-lab.clps.brown.edu/person/david-reichert/)
 23. [ Derek Rose ](http://mil.engr.utk.edu/nmil/member/5.html)
 24. [ Dong Yu ](http://research.microsoft.com/en-us/people/dongyu/default.aspx)
-25. [ Drausin Wulsin ](http://www.seas.upenn.edu/~wulsin/)
+25. Drausin Wulsin *(unavailable)*
 26. [ Erik M. Schmidt ](http://music.ece.drexel.edu/people/eschmidt)
 27. [ Eugenio Culurciello ](https://engineering.purdue.edu/BME/People/viewPersonById?resource_id=71333)
 28. [ Frank Seide ](http://research.microsoft.com/en-us/people/fseide/)
-29. [ Galen Andrew ](http://homes.cs.washington.edu/~galen/)
+29. Galen Andrew *(unavailable)*
 30. [ Geoffrey Hinton ](http://www.cs.toronto.edu/~hinton/)
 31. [ George Dahl ](http://www.cs.toronto.edu/~gdahl/)
-32. [ Graham Taylor ](http://www.uoguelph.ca/~gwtaylor/)
+32. [ Graham Taylor ](https://www.gwtaylor.ca/)
 33. [ Grégoire Montavon ](http://gregoire.montavon.name/)
 34. [ Guido Francisco Montúfar ](http://personal-homepages.mis.mpg.de/montufar/)
 35. [ Guillaume Desjardins ](http://brainlogging.wordpress.com/)
@@ -261,14 +263,14 @@
 42. [ James Martens ](http://www.cs.toronto.edu/~jmartens/)
 43. [ Jason Morton ](http://www.jasonmorton.com/)
 44. [ Jason Weston ](http://www.thespermwhale.com/jaseweston/)
-45. [ Jeff Dean ](http://research.google.com/pubs/jeff.html)
+45. Jeff Dean *(unavailable)*
 46. [ Jiquan Mgiam ](http://cs.stanford.edu/~jngiam/)
 47. [ Joseph Turian ](http://www-etud.iro.umontreal.ca/~turian/)
 48. [ Joshua Matthew Susskind ](http://aclab.ca/users/josh/index.html)
 49. [ Jürgen Schmidhuber ](http://www.idsia.ch/~juergen/)
 50. [ Justin A. Blanco ](https://sites.google.com/site/blancousna/)
 51. [ Koray Kavukcuoglu ](http://koray.kavukcuoglu.org/)
-52. [ KyungHyun Cho ](http://users.ics.aalto.fi/kcho/)
+52. [ KyungHyun Cho ](https://kyunghyuncho.me/)
 53. [ Li Deng ](http://research.microsoft.com/en-us/people/deng/)
 54. [ Lucas Theis ](http://www.kyb.tuebingen.mpg.de/nc/employee/details/lucas.html)
 55. [ Ludovic Arnold ](http://ludovicarnold.altervista.org/home/)
@@ -286,19 +288,19 @@
 67. [ Patrick Nguyen ](https://sites.google.com/site/drpngx/)
 68. [ Pedro Domingos ](http://homes.cs.washington.edu/~pedrod/)
 69. [ Peggy Series ](http://homepages.inf.ed.ac.uk/pseries/)
-70. [ Pierre Sermanet ](http://cs.nyu.edu/~sermanet)
+70. [ Pierre Sermanet ](https://sermanet.github.io/)
 71. [ Piotr Mirowski ](http://www.cs.nyu.edu/~mirowski/)
 72. [ Quoc V. Le ](http://ai.stanford.edu/~quocle/)
-73. [ Reinhold Scherer ](http://bci.tugraz.at/scherer/)
+73. Reinhold Scherer *(unavailable)*
 74. [ Richard Socher ](http://www.socher.org/)
 75. [ Rob Fergus ](http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php)
 76. [ Robert Coop ](http://mil.engr.utk.edu/nmil/member/19.html)
-77. [ Robert Gens ](http://homes.cs.washington.edu/~rcg/)
+77. Robert Gens *(unavailable)*
 78. [ Roger Grosse ](http://people.csail.mit.edu/rgrosse/)
 79. [ Ronan Collobert ](http://ronan.collobert.com/)
 80. [ Ruslan Salakhutdinov ](http://www.utstat.toronto.edu/~rsalakhu/)
 81. [ Sebastian Gerwinn ](http://www.kyb.tuebingen.mpg.de/nc/employee/details/sgerwinn.html)
-82. [ Stéphane Mallat ](http://www.cmap.polytechnique.fr/~mallat/)
+82. [ Stéphane Mallat ](https://www.di.ens.fr/~mallat/)
 83. [ Sven Behnke ](http://www.ais.uni-bonn.de/behnke/)
 84. [ Tapani Raiko ](http://users.ics.aalto.fi/praiko/)
 85. [ Tara Sainath ](https://sites.google.com/site/tsainath/)
@@ -325,7 +327,7 @@
 2.  [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
 3.  [nlp.stanford.edu](http://nlp.stanford.edu/)
 4.  [ai-junkie.com](http://www.ai-junkie.com/ann/evolved/nnt1.html)
-5.  [cs.brown.edu/research/ai](http://cs.brown.edu/research/ai/)
+5.  `cs.brown.edu/research/ai` *(unavailable)*
 6.  [eecs.umich.edu/ai](http://www.eecs.umich.edu/ai/)
 7.  [cs.utexas.edu/users/ai-lab](http://www.cs.utexas.edu/users/ai-lab/)
 8.  [cs.washington.edu/research/ai](http://www.cs.washington.edu/research/ai/)
@@ -335,7 +337,7 @@
 12.  [cgi.cse.unsw.edu.au/~aishare](http://cgi.cse.unsw.edu.au/~aishare/)
 13.  [cs.rochester.edu/research/ai](http://www.cs.rochester.edu/research/ai/)
 14.  [ai.sri.com](http://www.ai.sri.com/)
-15.  [isi.edu/AI/isd.htm](http://www.isi.edu/AI/isd.htm)
+15.  `isi.edu/AI/isd.htm` *(unavailable)*
 16.  [nrl.navy.mil/itd/aic](http://www.nrl.navy.mil/itd/aic/)
 17.  [hips.seas.harvard.edu](http://hips.seas.harvard.edu/)
 18.  [AI Weekly](http://aiweekly.co)
@@ -352,7 +354,7 @@
 29.  [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/)
 30.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 31.  [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
-32.  [ahmedbesbes.com](http://ahmedbesbes.com)
+32.  `ahmedbesbes.com` *(unavailable)*
 33.  [amitness.com](https://amitness.com/)
 34.  [AI Summer](https://theaisummer.com/)
 35.  [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
@@ -367,9 +369,9 @@
 4.  [IMAGENET](http://www.image-net.org/)
 5.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.  
 6.  [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
-7.  [Berkeley Segmentation Dataset 500](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+7.  [Berkeley Segmentation Dataset 500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
 8.  [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
-9.  [Flickr 8k](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
+9.  Flickr 8k *(unavailable)*
 10. [Flickr 30k](http://shannon.cs.illinois.edu/DenotationGraph/)
 11. [Microsoft COCO](http://mscoco.org/home/)
 12. [VQA](http://www.visualqa.org/)
@@ -377,18 +379,18 @@
 14. [AT&T Laboratories Cambridge face database](http://www.uk.research.att.com/facedatabase.html)
 15. [AVHRR Pathfinder](http://xtreme.gsfc.nasa.gov)
 16. [Air Freight](http://www.anc.ed.ac.uk/~amos/afreightdata.html) - The Air Freight data set is a ray-traced image sequence along with ground truth segmentation based on textural characteristics. (455 images + GT, each 160x120 pixels). (Formats: PNG)  
-17. [Amsterdam Library of Object Images](http://www.science.uva.nl/~aloi/) - ALOI is a color image collection of one-thousand small objects, recorded for scientific purposes. In order to capture the sensory variation in object recordings, we systematically varied viewing angle, illumination angle, and illumination color for each object, and additionally captured wide-baseline stereo images. We recorded over a hundred images of each object, yielding a total of 110,250 images for the collection. (Formats: png)
-18. [Annotated face, hand, cardiac & meat images](http://www.imm.dtu.dk/~aam/) - Most images & annotations are supplemented by various ASM/AAM analyses using the AAM-API. (Formats: bmp,asf)
+17. [Amsterdam Library of Object Images](https://aloi.science.uva.nl/) - ALOI is a color image collection of one-thousand small objects, recorded for scientific purposes. In order to capture the sensory variation in object recordings, we systematically varied viewing angle, illumination angle, and illumination color for each object, and additionally captured wide-baseline stereo images. We recorded over a hundred images of each object, yielding a total of 110,250 images for the collection. (Formats: png)
+18. Annotated face, hand, cardiac & meat images *(unavailable)* - Most images & annotations are supplemented by various ASM/AAM analyses using the AAM-API. (Formats: bmp,asf)
 19. [Image Analysis and Computer Graphics](http://www.imm.dtu.dk/image/)  
 21. [Brown University Stimuli](http://www.cog.brown.edu/~tarr/stimuli.html) - A variety of datasets including geons, objects, and "greebles". Good for testing recognition algorithms. (Formats: pict)
 22. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) - 90K video frames in 90 sequences of various human activities, with XML ground truth of detection and behavior classification (Formats: MPEG2 & JPEG)
 23. [Machine Vision Unit](http://www.ipab.inf.ed.ac.uk/mvu/)
-25. [CCITT Fax standard images](http://www.cs.waikato.ac.nz/~singlis/ccitt.html) - 8 images (Formats: gif)
-26. [CMU CIL's Stereo Data with Ground Truth](cil-ster.html) - 3 sets of 11 images, including color tiff images with spectroradiometry (Formats: gif, tiff)
+25. CCITT Fax standard images *(unavailable)* - 8 images (Formats: gif)
+26. CMU CIL's Stereo Data with Ground Truth *(unavailable)* - 3 sets of 11 images, including color tiff images with spectroradiometry (Formats: gif, tiff)
 27. [CMU PIE Database](http://www.ri.cmu.edu/projects/project_418.html) - A database of 41,368 face images of 68 people captured under 13 poses, 43 illuminations conditions, and with 4 different expressions.
 28. [CMU VASC Image Database](http://www.ius.cs.cmu.edu/idb/) - Images, sequences, stereo pairs (thousands of images) (Formats: Sun Rasterimage)
-29. [Caltech Image Database](http://www.vision.caltech.edu/html-files/archive.html) - about 20 images - mostly top-down views of small objects and toys. (Formats: GIF)
-30. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
+29. Caltech Image Database *(unavailable)* - about 20 images - mostly top-down views of small objects and toys. (Formats: GIF)
+30. [Columbia-Utrecht Reflectance and Texture Database](https://www.cs.columbia.edu/CAVE/software/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
 31. [Computational Colour Constancy Data](http://www.cs.sfu.ca/~colour/data/index.html) - A dataset oriented towards computational color constancy, but useful for computer vision in general. It includes synthetic data, camera sensor data, and over 700 images. (Formats: tiff)
 32. [Computational Vision Lab](http://www.cs.sfu.ca/~colour/)
 34. [Content-based image retrieval database](http://www.cs.washington.edu/research/imagedatabase/groundtruth/) - 11 sets of color images for testing algorithms for content-based retrieval. Most sets have a description file with names of objects in each image. (Formats: jpg)
@@ -402,7 +404,7 @@
 44. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/) - FVC2000 is the First International Competition for Fingerprint Verification Algorithms. Four fingerprint databases constitute the FVC2000 benchmark (3520 fingerprints in all).
 45. [Biometric Systems Lab](http://biolab.csr.unibo.it/home.asp) - University of Bologna
 46. [Face and Gesture images and image sequences](http://www.fg-net.org) - Several image datasets of faces and gestures that are ground truth annotated for benchmarking
-47. [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html) - The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. (Formats: mpg,jpg)  
+47. German Fingerspelling Database *(unavailable)* - The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. (Formats: mpg,jpg)
 48. [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
 50. [Groningen Natural Image Database](http://hlab.phys.rug.nl/archive.html) - 4000+ 1536x1024 (16 bit) calibrated outdoor images (Formats: homebrew)
 51. [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/~schindler/Data) -  2 turntable sequences from ifferent viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
@@ -411,19 +413,19 @@
 55. [INRIA's Syntim images database](http://www-rocq.inria.fr/~tarel/syntim/images.html) - 15 color image of simple objects (Formats: gif)
 56. [INRIA](http://www.inria.fr/)
 57. [INRIA's Syntim stereo databases](http://www-rocq.inria.fr/~tarel/syntim/paires.html) - 34 calibrated color stereo pairs (Formats: gif)
-58. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging/Archives/ImageDataBase/index.html) - Images obtained from a variety of imaging modalities -- raw CFA images, range images and a host of "medical images". (Formats: homebrew)
+58. Image Analysis Laboratory *(unavailable)* - Images obtained from a variety of imaging modalities -- raw CFA images, range images and a host of "medical images". (Formats: homebrew)
 59. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging)
-61. [Image Database](http://www.prip.tuwien.ac.at/prip/image.html) - An image database including some textures  
+61. Image Database *(unavailable)* - An image database including some textures
 62. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html) - The JAFFE database consists of 213 images of Japanese female subjects posing 6 basic facial expressions as well as a neutral pose. Ratings on emotion adjectives are also available, free of charge, for research purposes. (Formats: TIFF Grayscale images.)
 63. [ATR Research, Kyoto, Japan](http://www.mic.atr.co.jp/)
 64. [JISCT Stereo Evaluation](ftp://ftp.vislist.com/IMAGERY/JISCT/) - 44 image pairs. These data have been used in an evaluation of stereo analysis, as described in the April 1993 ARPA Image Understanding Workshop paper ``The JISCT Stereo Evaluation'' by R.C.Bolles, H.H.Baker, and M.J.Hannah, 263--274 (Formats: SSI)
 65. [MIT Vision Texture](https://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) - Image archive (100+ images) (Formats: ppm)
 66. [MIT face images and more](ftp://whitechapel.media.mit.edu/pub/images) - hundreds of images (Formats: homebrew)
-67. [Machine Vision](http://vision.cse.psu.edu/book/testbed/images/) - Images from the textbook by Jain, Kasturi, Schunck (20+ images) (Formats: GIF TIFF)
+67. Machine Vision *(unavailable)* - Images from the textbook by Jain, Kasturi, Schunck (20+ images) (Formats: GIF TIFF)
 68. [Mammography Image Databases](http://marathon.csee.usf.edu/Mammography/Database.html) - 100 or more images of mammograms with ground truth. Additional images available by request, and links to several other mammography databases are provided. (Formats: homebrew)
 69. [ftp://ftp.cps.msu.edu/pub/prip](ftp://ftp.cps.msu.edu/pub/prip) - many images (Formats: unknown)
-70. [Middlebury Stereo Data Sets with Ground Truth](http://www.middlebury.edu/stereo/data.html) - Six multi-frame stereo data sets of scenes containing planar regions. Each data set contains 9 color images and subpixel-accuracy ground-truth data. (Formats: ppm)
-71. [Middlebury Stereo Vision Research Page](http://www.middlebury.edu/stereo) - Middlebury College
+70. [Middlebury Stereo Data Sets with Ground Truth](https://vision.middlebury.edu/stereo/data/) - Six multi-frame stereo data sets of scenes containing planar regions. Each data set contains 9 color images and subpixel-accuracy ground-truth data. (Formats: ppm)
+71. [Middlebury Stereo Vision Research Page](https://vision.middlebury.edu/stereo/) - Middlebury College
 72. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - High Altitude Imagery from around the world for environmental modeling in support of NASA EOS program (Formats: JPG and HDF)
 73. [NIST Fingerprint and handwriting](ftp://sequoyah.ncsl.nist.gov/pub/databases/data) - datasets - thousands of images (Formats: unknown)
 74. [NIST Fingerprint data](ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) - compressed multipart uuencoded tar file
@@ -467,8 +469,8 @@
 121. [University of Oulu Texture Database](http://www.outex.oulu.fi) - Database of 320 surface textures, each captured under three illuminants, six spatial resolutions and nine rotation angles. A set of test suites is also provided so that texture segmentation, classification, and retrieval algorithms can be tested in a standard manner. (Formats: bmp, ras, xv)
 122. [Machine Vision Group](http://www.ee.oulu.fi/mvg)
 124. [Usenix face database](ftp://ftp.uu.net/published/usenix/faces) - Thousands of face images from many different sites (circa 994)
-125. [View Sphere Database](http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html) - Images of 8 objects seen from many different view points. The view sphere is sampled using a geodesic with 172 images/sphere. Two sets for training and testing are available. (Formats: ppm)
-126. [PRIMA, GRAVIR](http://www-prima.inrialpes.fr/Prima/)
+125. View Sphere Database *(unavailable)* - Images of 8 objects seen from many different view points. The view sphere is sampled using a geodesic with 172 images/sphere. Two sets for training and testing are available. (Formats: ppm)
+126. PRIMA, GRAVIR *(unavailable)*
 127. [Vision-list Imagery Archive](ftp://ftp.vislist.com/IMAGERY/) - Many images, many formats
 128. [Wiry Object Recognition Database](http://www.cs.cmu.edu/~owenc/word.htm) - Thousands of images of a cart, ladder, stool, bicycle, chairs, and cluttered scenes with ground truth labelings of edges and regions. (Formats: jpg)
 129. [3D Vision Group](http://www.cs.cmu.edu/0.000000E+003dvision/)
@@ -481,7 +483,7 @@
 137. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 dataset containing 12k images with 20 annotated classes for object detection and segmentation.
 138. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 139. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
-140. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
+140. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using `opensources.co` *(unavailable)* types
 
 ### Conferences
 
@@ -537,7 +539,7 @@
 34.  [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework](https://github.com/PrincetonVision/marvin)
 35.  [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
 36.  [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne)
-37.  [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet)
+37.  SyntaxNet - Google's syntactic parser - A TensorFlow dependency library *(unavailable)*
 38.  [mlpack - A scalable Machine Learning library](http://mlpack.org/)
 39.  [Torchnet - Torch based Deep Learning Library](https://github.com/torchnet/torchnet)
 40.  [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
@@ -551,7 +553,7 @@
 48.  [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](https://github.com/caffe2/caffe2)
 49.  [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs)
 50.  [TVM - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators](https://tvm.ai/)
-51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
+51.  Coach - Reinforcement Learning Coach by Intel® AI Lab *(unavailable)*
 52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
 53.  [Neuraxle - A general-purpose ML pipelining framework](https://github.com/Neuraxio/Neuraxle)
 54.  [Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing](https://github.com/catalyst-team/catalyst)
@@ -573,7 +575,7 @@
 1.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
 2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
+4.  Visual Studio Tools for AI *(unavailable)* - Develop, debug and deploy deep learning and AI solutions
 5.  [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization for deep learning
 6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
 7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
@@ -611,7 +613,7 @@
 26. [Proof of concept for loading Caffe models in TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 27. [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)
 28. [YOLO: Practical Implementation using Python](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/)
-29. [AlphaGo - A replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search"](https://github.com/Rochester-NRT/AlphaGo)
+29. AlphaGo - A replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" *(unavailable)*
 30. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 31. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
 32. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
@@ -622,7 +624,7 @@
 37. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
 38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
 39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
-40. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
+40. [ML libraries: ranked directory by amitness](https://github.com/amitness/ml-libraries)
 41. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 42. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 
